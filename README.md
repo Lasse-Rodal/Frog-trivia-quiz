@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL:](https://github.com/Lasse-Rodal/frog-trivia-quiz)
-- [Live Site URL:](https://lasse-rodal.github.io/frog-trivia-quiz/)
+- [Solution URL:](https://github.com/Lasse-Rodal/Frog-trivia-quiz)
+- [Live Site URL:](https://lasse-rodal.github.io/Frog-trivia-quiz/)
 
 ## My process
 
